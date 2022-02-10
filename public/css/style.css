@@ -1,0 +1,53 @@
+#homecontent{
+    background-image: url('/images/3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* padding-top: -100px; */
+    /* z-index: 1; */
+    transform: translateY(-200px);
+    /* padding-bottom: 5px; */
+
+    
+}
+#logincont{
+    float: right;
+    margin-right: 50px;
+    color: white;
+    background-color: rgba(0,0,0,.5);
+    border: 1px solid black;
+    padding: 10px;
+}
+#head{
+    height: 250px;
+    background-color: darkblue;
+    /* margin-bottom: 10px; */
+    /* z-index: 2; */
+}
+#home{
+    height: 300px;;
+}
+
+nav{
+    background-color: darkblue;
+}
+#signupcont{
+    margin-left: 250px;
+    padding: 50px;
+    color: white;
+    background-color: rgba(0, 0, 0, .5);
+}
+#bookscont{
+    transform: translateY(-200px);
+}
+#addbookcontent{
+    transform: translateY(-200px);  
+}
+#bookform{
+    background-color: rgba(0, 0, 0, .5);
+}
+#deletebook{
+    /* margin-left: 300px; */
+}
+#editbook{
+   
+}
